@@ -1,4 +1,4 @@
-from moduler import *
+from modular import *
 from scheduler import *
 from validation import *
 
