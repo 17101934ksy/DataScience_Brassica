@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
 
-from moduler import *
+from modular import *
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
 model_effnet0 = models.efficientnet_b0(pretrained=True)
