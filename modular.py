@@ -36,8 +36,6 @@ import math
 # warnings.filterwarnings(action='ignore')
 
 
-from moduler import *
-
 
 CFG = {
     'IMG_SIZE': 224,
