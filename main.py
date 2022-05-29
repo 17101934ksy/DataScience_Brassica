@@ -1,4 +1,4 @@
-from moduler import *
+from modular import *
 from setup import *
 from loader import *
 from model.cnnregressor import *
