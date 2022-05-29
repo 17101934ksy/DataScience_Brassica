@@ -1,4 +1,4 @@
-from  moduler import *
+from  modular import *
 
 def predict(model, test_loader, device):
     model.eval()
