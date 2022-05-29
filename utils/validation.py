@@ -1,4 +1,4 @@
-from  moduler import *
+from  modular import *
 
 def validation(model, vali_loader, criterion, device):
     model.eval() # Evaluation
